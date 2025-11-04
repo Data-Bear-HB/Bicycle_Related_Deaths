@@ -6,7 +6,12 @@ Many people in the United States regularly commute by bicycle. In a collision be
 
 Question 1: What is the national average rate of bicyclist deaths? Or, on average, how many people per year die riding a bicycle?
 
+[National average](bicycle_related_deaths/screenshot)
+
 Question 2: Comparing Oregon and Washington, states with varying levels of bicycle safety infrastructure, which state has a lower rate of bicyclist deaths per population?
 
 Question 3: What factors may be contributing to this difference in cyclist deaths rates per state?
-
+_____________________________________________________________________________
+## Data is sourced from 
+- (ADD LINK HERE) US Census for population
+- ODOT, WSDOT (ADD LINKS HERE)
