@@ -15,6 +15,5 @@ Question 2: Comparing Oregon and Washington, states with varying levels of bicyc
 
 Question 3: What factors may be contributing to this difference in cyclist deaths rates per state?
 _____________________________________________________________________________
-## Data is sourced from 
-- (ADD LINK HERE) US Census for population
-- ODOT, WSDOT (ADD LINKS HERE)
+
+Summary:
