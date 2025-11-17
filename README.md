@@ -11,7 +11,7 @@ __________________________________________________
 Many people in the United States regularly commute by bicycle. In a collision between a car and cyclist, the cyclist, having no seatbelt, airbag, or external structure, is much more vulnerable to injury or death. Of course, there are other, non-car-related ways to die on a bicycle. Recently, there has been a rise of bicycle-related-deaths in the United States.  This analysis looks at this rising rate and compares Oregon, Washington, and national rates.
 
 ### The Why: 
-I made this project in my statistical analysis class because I am a bicyclist myself and moved from Washington to Oregon a few years ago.
+I made this project in my statistical analysis class because I am a bicyclist myself and moved from Washington to Oregon a few years ago. It definitely *felt* less safe to ride a bicycle in Oregon over Washington, but I wanted to see if the data supported this. I also was interested if my anxiety about more bicycle-related-deaths was accurate. 
 
 ## Limitations: 
 It could be gathered that not every state's transportation feels it in it's own best interest to report every bicycle crash injury or fatality. Therefore, we take these data collections in good faith.
