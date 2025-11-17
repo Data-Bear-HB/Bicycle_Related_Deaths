@@ -24,16 +24,30 @@ What is the national average rate of bicyclist deaths? Or, on average, how many 
 
 #1 Answer: Using the raw data from the [national rate of bicycle deaths from the 2014-2022](https://github.com/Data-Bear-HB/Bicycle_Related_Deaths/blob/main/raw_data/Bicycle%20Fatalities%20Data.xlsx) we can use statstical analysis (below) to find the average (mean) is 886.22 bicycle deaths per year.
 
-min =	729, max =	1105, Range	R =	376, n =	9, sum =	7976, mean =	886.22222, median =	859, standard deviation =	109.68452
+min =	729, 
+
+max =	1105, 
+
+range	 =	376, 
+
+count =	9, 
+
+sum =	7976, 
+
+mean =	886.22222, 
+
+median =	859, 
+
+standard deviation =	109.68452
 __________________________________________________________
 
-Question 2: Is Oregon or Washinton safer to ride? Comparing Oregon and Washington, states with varying levels of bicycle safety infrastructure, which state has a lower rate of bicyclist deaths per population?
+Question 2: Is Oregon or Washinton safer to ride a bicycle? Comparing Oregon and Washington, states with varying levels of bicycle-safety-infrastructure, which state has a lower rate of bicyclist deaths per population?
 
 ![Bicycle Deaths in Oregon and Washington chart](images/Bicycle_Deaths_in_Oregon_and_Washington.png)
 
 #2 Answer: It would appear on first glance, that Washington has more bicycle related deaths. But on further inspection, if we look at bicycle deaths per state popluation, we see that Washington is signifcantly lower, nearly half of Oregon's rate.
 
-[Proportional Comparison of Oregon Washington and the United States.](images/Proportional Comparison of Deaths.png)
+[Proportional Comparison of Oregon Washington and the United States](images/Proportional Comparison of Deaths.png)
 Furthermore, when we compare these rates to the national levels (US full count / 50 states) we see that OR and WA are much lower than the national average.
 ___________________________________________________________
 Question 3: Is the number of bicycle deaths really rising? If so, is the rise statistically significant?
