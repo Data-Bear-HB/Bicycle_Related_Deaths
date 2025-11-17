@@ -43,11 +43,12 @@ __________________________________________________________
 
 Question 2: Is Oregon or Washinton safer to ride a bicycle? Phrased another way, comparing Oregon and Washington, states with varying levels of bicycle-safety-infrastructure, which state has a lower rate of bicyclist deaths per population?
 
-![Bicycle Deaths in Oregon and Washington chart](images/Proportional_Comparison_of_Deaths.png)
+![Bicycle Deaths in Oregon and Washington chart](images/Bicycle_Deaths_in_Oregon_and_Washington.png)
 
-#2 Answer: It would appear on first glance, that Washington has more bicycle related deaths. But on further inspection, if we look at bicycle deaths per state popluation, we see that Washington is signifcantly lower, nearly half of Oregon's rate.
+#2 Answer: It would appear from the chart above, that Washington has more bicycle related deaths. But on further inspection, if we look at bicycle deaths *proportional* for each state popluation, we see that Washington is signifcantly lower, nearly half of Oregon's rate.
 
-[Proportional Comparison of Oregon Washington and the United States](images/Proportional Comparison of Deaths.png)
+[Proportional Comparison of Oregon Washington and the United States](images/Proportional_Comparison_of_Deaths.png)
+
 Furthermore, when we compare these rates to the national levels (US full count / 50 states) we see that OR and WA are much lower than the national average.
 ___________________________________________________________
 Question 3: Is the number of bicycle deaths really rising? If so, is the rise statistically significant?
