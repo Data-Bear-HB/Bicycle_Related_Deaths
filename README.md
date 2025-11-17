@@ -19,7 +19,8 @@ ________________________________________________
 ## Analysis
 -The chart visualizations are created using Excel.
 _______________________________________________
--Question 1: What is the national average rate of bicyclist deaths? Or, on average, how many people per year die riding a bicycle?
+-Question 1: 
+What is the national average rate of bicyclist deaths? Or, on average, how many people per year die riding a bicycle?
 
 #1 Answer: Using the raw data from the [national rate of bicycle deaths from the 2014-2022](https://github.com/Data-Bear-HB/Bicycle_Related_Deaths/blob/main/raw_data/Bicycle%20Fatalities%20Data.xlsx) we can use statstical analysis (below) to find the average (mean) is 886.22 bicycle deaths per year.
 
