@@ -8,13 +8,13 @@ Data Sources:
 -Bicycle Deaths: [Crash Stats with the National Highway Traffic Safety Administration](https://crashstats.nhtsa.dot.gov/#!/PublicationList/19)
 __________________________________________________
 ## Introduction
-Many people in the United States regularly commute by bicycle. In a collision between a car and cyclist, the cyclist, having no seatbelt, airbag, or external structure, is much more vulnerable to injury or death. Of course, there are other, non-car-related ways to die on a bicycle. Recently, there has been a rise of bicycle-related-deaths in the United States.  This analysis looks at this rising rate and compares Oregon, Washington, and national rates.
+Many people in the United States regularly commute by bicycle. In a collision between a car and cyclist, the cyclist, having no seatbelt, airbag, or external structure, is much more vulnerable to injury or death. Of course, there are other, non-car-related ways to die on a bicycle.  This analysis looks at this bicycle-death-rate and compares Oregon, Washington, and national numbers.
 
 ### The Why: 
-I made this project in my statistical analysis class because I am a bicyclist myself and moved from Washington to Oregon a few years ago. It definitely *felt* less safe to ride a bicycle in Oregon over Washington, but I wanted to see if the data supported this. I also was interested to see if bicycle-related-deaths were on the rise. 
+I made this project in my statistical analysis class because I am a bicyclist myself and moved from Washington to Oregon a few years ago. It definitely *felt* safer to ride a bicycle in Washington over Oregon, but I wanted to see if the data supported this. I also was interested to see if bicycle-related-deaths were on the rise. 
 
 ## Limitations: 
-It could be gathered that not every state's transportation feels it in it's own best interest to report every bicycle crash injury or fatality. Therefore, we take these data collections in good faith.
+It could be gathered that not every state's transportation departmetn feels it in it's own best interest to report every bicycle crash injury or fatality. That said, I've decided to take these data collections in good faith.
 ________________________________________________
 ## Analysis
 -The chart visualizations are created using Excel.
@@ -41,7 +41,7 @@ median =	859,
 standard deviation =	109.68452
 __________________________________________________________
 
-Question 2: Is Oregon or Washinton safer to ride a bicycle? Comparing Oregon and Washington, states with varying levels of bicycle-safety-infrastructure, which state has a lower rate of bicyclist deaths per population?
+Question 2: Is Oregon or Washinton safer to ride a bicycle? Phrased another way, comparing Oregon and Washington, states with varying levels of bicycle-safety-infrastructure, which state has a lower rate of bicyclist deaths per population?
 
 ![Bicycle Deaths in Oregon and Washington chart](images/Proportional_Comparison_of_Deaths.png)
 
